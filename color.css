@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body{
+	background: linear-gradient(to right, blue, pink);
+}
+
+h1, h2{
+	font: 500 3em 'Raleway', sans-serif;
+	color: rgba(0, 0, 0, 0.5);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	font-weight: bold;
+	width: 100%;
+}
+
+h2{
+	font: 200 1em;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 0.01em;
+=======
+div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body{
+	background: linear-gradient(to right, blue, pink);
+}
+
+h1, h2{
+	font: 500 3em 'Raleway', sans-serif;
+	color: rgba(0, 0, 0, 0.5);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	font-weight: bold;
+	width: 100%;
+}
+
+h2{
+	font: 200 1em;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 0.01em;
+>>>>>>> cd7f98fc95713678970c3aa092042ee2a18168d6
+}
